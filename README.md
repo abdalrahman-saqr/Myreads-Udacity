@@ -44,7 +44,7 @@ $ npm start
 
 ## Authors
 
-- **AbdalrahmanSaqr** - [**Github**](https://github.com/abdalarhamn0505)
+- **AbdalrahmanSaqr** - [**Github**](https://github.com/abdalrahman0505)
 
 
 ## Contributing
